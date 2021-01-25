@@ -1,5 +1,5 @@
-# PACAPP
-My 18-week project. an ASP.ET MVC Core web application
+# PlanAheadCalendar (PAC) APP
+### My 18-week project. an ASP.ET MVC Core web application
 
 
 
