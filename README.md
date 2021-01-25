@@ -40,9 +40,8 @@ _Info Stored_
 
 The PAC App will store the user’s plans as shown in the examples below:
 
-**PLAN | TYPE	| DESCRIPTION	| DURATION | START | DATE	| END | DATE | STATUS**
+**PLAN | TYPE	| DESCRIPTION	| DURATION | START | DATE	| END | DATE | STATUS*
 -------|------|-------------|----------|-------|------|-----|------|-------|
-
 1. TASK |	DOG APPT |	1 DAY |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
 2. EVENT | BOB BIRTHDAY |	1 DAY	| FEB 2, 2021	| FEB 2, 2021 |	PENDING
 3. GOAL |	WEIGHT LOSS |	1 WEEK |	JAN 23, 2021 |	JAN 30, 2021 | IN PROGRESS
