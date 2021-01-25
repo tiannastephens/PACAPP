@@ -1,5 +1,5 @@
 # PlanAheadCalendar (PAC) APP
-### An 18-week web application project in ASP.ET MVC Core web application
+### An 18-week web application project in ASP.ET MVC Core for MSSA
 
 ---
 
@@ -7,9 +7,6 @@
 Tianna Stephens
 Jan 22, 2021
 
-________________________________________
-Project Step 2
-Project Selection
 ________________________________________
 
 PlanAheadCalendar (PAC)
