@@ -6,21 +6,21 @@ Jan 22, 2021
 
 ________________________________________
 
-**PlanAheadCalendar (PAC)**
+# PlanAheadCalendar (PAC)
 
-#### ➪ Introduction
+### ➪ Introduction
 
 We all have those days when we start to feel overwhelmed because of the amount of work we need to get done in such little time, which could cause us to become disorganized and frustrated. This web application is a great way to help users plan, create and organize their day-to-day tasks; however, this program can’t be used to set reminders, and is only a virtual planner. The PAC App will even allow the users to set their own goals so that they can be met in a timely matter. 
 
-#### Plan
+### Plan
 
 _Let’s Create Your Plan_ _
 
 The PAC App will give the user a set list of different types of plans they can choose from depending on what the user wants to use in order to meet their needs. The set list can be seen shown below:
 
-### PLAN TYPES
+#### PLAN TYPES
 
-•	TASKS & ERRANDS (T&E) – using this plan gives the user the option to create a title or use automatic titles such as: (Grocery shopping, Car maintenance, Hair appointments, Pet Care, Work and School). Once a title has been made or selected the user can now type in a description explaining what that task or errand is being created for and choose what date they want to execute that plan. 
+**•	TASKS & ERRANDS (T&E)**  – using this plan gives the user the option to create a title or use automatic titles such as: (Grocery shopping, Car maintenance, Hair appointments, Pet Care, Work and School). Once a title has been made or selected the user can now type in a description explaining what that task or errand is being created for and choose what date they want to execute that plan. 
 
 •	EVENT (EV) -   With this plan the user also has the option to create a title or use automatic titles such as: (Birthdays, Meetings, Games, Weddings). Once a title has been made or selected for this task the user has the option to either add a description or continue to the calendar and select a date for the newly created event.
 
