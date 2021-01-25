@@ -41,8 +41,7 @@ _Info Stored_
 The PAC App will store the user’s plans as shown in the examples below:
 
 **PLAN TYPE	| DESCRIPTION	| DURATION | START DATE	| END DATE | STATUS **
-  ----------|-------------|----------|------------|----------|--------
-  
+  ----------|-------------|----------|------------|----------|-------
  TASK |	DOG APPT |	1 DAY |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
  EVENT | BOB BIRTHDAY |	1 DAY	| FEB 2, 2021	| FEB 2, 2021 |	PENDING
  GOAL |	WEIGHT LOSS |	1 WEEK |	JAN 23, 2021 |	JAN 30, 2021 | IN PROGRESS
@@ -52,8 +51,8 @@ The PAC App will store the user’s plans as shown in the examples below:
 _Once a user clicks on the plan, they want to view the can see a more detailed view of that plan as shown below:_ 
 
 
-**|	DESCRIPTION |	START DATE |	END DATE |	STATUS |**
-  --------------|------------|----------|--------|
+**DESCRIPTION |	START DATE |	END DATE |	STATUS **
+  ------------|------------|-----------|--------|
 DOG APPT |	My dog “spot” has a doctor appt with Dr. Barnes at 12pm |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
 BOB BIRTHDAY |	Bob’s birthday party will be held at saltgrass restaurant at 4pm |	FEB 2, 2021	| FEB 2, 2021 |	PENDING
 WEIGHT LOSS |	I want to lose 5Ibs by next week	| JAN 23, 2021	| JAN 30, 2021 |	IN PROGRESS
