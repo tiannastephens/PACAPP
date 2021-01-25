@@ -1,7 +1,7 @@
 # PlanAheadCalendar (PAC) APP
-### My 18-week project. an ASP.ET MVC Core web application
+### An 18-week web application project in ASP.ET MVC Core web application
 
-
+---
 
 
 Tianna Stephens
@@ -14,11 +14,11 @@ ________________________________________
 
 PlanAheadCalendar (PAC)
 
-➪ Introduction
+#### ➪ Introduction
 
 We all have those days when we start to feel overwhelmed because of the amount of work we need to get done in such little time, which could cause us to become disorganized and frustrated. This web application is a great way to help users plan, create and organize their day-to-day tasks; however, this program can’t be used to set reminders, and is only a virtual planner. The PAC App will even allow the users to set their own goals so that they can be met in a timely matter. 
 
-Plan
+#### Plan
 
 Let’s Create Your Plan
 
@@ -36,11 +36,11 @@ PLAN TYPES
 
 The PAC App is very easy and simple to use; Although each plan is different, they ultimately work the same way when it comes to selecting a Title, Description & Calendar Date. 
 
-Length of Plan types
+#### Length of Plan types
 
 When selecting a (“Start & End Date”) the user will be given the option to either choose a single day, a weekly, monthly or yearly plan. Each plan a user creates MUST have a (Start & End Date). The calendar will mark the desired finish date as “completed” on the following day for every plan type whether these are single day, weekly, monthly or yearly plans. 
 
-Account Info
+#### Account Info
 
 Users must create an account in order to use the PAC Web Application. When registering for an account the user will be asked to create Username and Password, enter their birthdate and an email address for account verification. 
 Info Stored
