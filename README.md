@@ -43,11 +43,13 @@ The PAC App will store the user’s plans as shown in the examples below:
 **PLAN | TYPE	| DESCRIPTION	| DURATION | START | DATE	| END | DATE | STATUS**
 
 1. TASK |	DOG APPT |	1 DAY |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
-EVENT	BOB BIRTHDAY	1 DAY	FEB 2, 2021	FEB 2, 2021	PENDING
-GOAL	WEIGHT LOSS	1 WEEK	JAN 23, 2021	JAN 30, 2021	IN PROGRESS
-ROUTINE	WORKOUT 	3 WEEKS	JAN 23, 2021 	FEB 12, 2021	IN PROGRESS
+2. EVENT | BOB BIRTHDAY |	1 DAY	| FEB 2, 2021	| FEB 2, 2021 |	PENDING
+3. GOAL |	WEIGHT LOSS |	1 WEEK |	JAN 23, 2021 |	JAN 30, 2021 | IN PROGRESS
+4. ROUTINE | WORKOUT | 	3 WEEKS |	JAN 23, 2021 | 	FEB 12, 2021 |	IN PROGRESS
+
 
 Once a user clicks on the plan, they want to view the can see a more detailed view of that plan as shown below: 
+
 
 PLAN TYPE	DESCRIPTION	START DATE	END DATE	STATUS
 DOG APPT	My dog “spot” has a doctor appt with Dr. Barnes at 12pm	JAN 25, 2021	JAN 25, 2021	PENDING
