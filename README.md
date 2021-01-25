@@ -35,9 +35,12 @@ When selecting a (“Start & End Date”) the user will be given the option to e
 #### Account Info
 
 Users must create an account in order to use the PAC Web Application. When registering for an account the user will be asked to create Username and Password, enter their birthdate and an email address for account verification. 
-Info Stored
+
+##### Info Stored
+
 The PAC App will store the user’s plans as shown in the examples below:
-PLAN TYPE	DESCRIPTION	DURATION	START DATE	END DATE	STATUS
+
+**PLAN  TYPE	 DESCRIPTION	 DURATION	 START  DATE	 END  DATE	 STATUS**
 TASK	DOG APPT	1 DAY	JAN 25, 2021	JAN 25, 2021	PENDING
 EVENT	BOB BIRTHDAY	1 DAY	FEB 2, 2021	FEB 2, 2021	PENDING
 GOAL	WEIGHT LOSS	1 WEEK	JAN 23, 2021	JAN 30, 2021	IN PROGRESS
