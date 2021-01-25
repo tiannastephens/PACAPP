@@ -16,7 +16,7 @@ _Let’s Create Your Plan_ _
 
 The PAC App will give the user a set list of different types of plans they can choose from depending on what the user wants to use in order to meet their needs. The set list can be seen shown below:
 
-### PLAN TYPES
+#### PLAN TYPES
 
 **•	TASKS & ERRANDS (T&E)**  – using this plan gives the user the option to create a title or use automatic titles such as: (Grocery shopping, Car maintenance, Hair appointments, Pet Care, Work and School). Once a title has been made or selected the user can now type in a description explaining what that task or errand is being created for and choose what date they want to execute that plan. 
 
@@ -28,11 +28,11 @@ The PAC App will give the user a set list of different types of plans they can c
 
 The PAC App is very easy and simple to use; Although each plan is different, they ultimately work the same way when it comes to selecting a Title, Description & Calendar Date. 
 
-### Length of Plan types
+#### Length of Plan types
 
 When selecting a (“Start & End Date”) the user will be given the option to either choose a single day, a weekly, monthly or yearly plan. Each plan a user creates MUST have a (Start & End Date). The calendar will mark the desired finish date as “completed” on the following day for every plan type whether these are single day, weekly, monthly or yearly plans. 
 
-### Account Info
+#### Account Info
 
 Users must create an account in order to use the PAC Web Application. When registering for an account the user will be asked to create Username and Password, enter their birthdate and an email address for account verification. 
 Info Stored
