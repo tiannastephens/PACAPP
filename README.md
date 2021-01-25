@@ -6,7 +6,7 @@ Jan 22, 2021
 
 ________________________________________
 
-PlanAheadCalendar (PAC)
+**PlanAheadCalendar (PAC)**
 
 #### ➪ Introduction
 
@@ -14,11 +14,11 @@ We all have those days when we start to feel overwhelmed because of the amount o
 
 #### Plan
 
-Let’s Create Your Plan
+_Let’s Create Your Plan_ _
 
 The PAC App will give the user a set list of different types of plans they can choose from depending on what the user wants to use in order to meet their needs. The set list can be seen shown below:
 
-PLAN TYPES
+### PLAN TYPES
 
 •	TASKS & ERRANDS (T&E) – using this plan gives the user the option to create a title or use automatic titles such as: (Grocery shopping, Car maintenance, Hair appointments, Pet Care, Work and School). Once a title has been made or selected the user can now type in a description explaining what that task or errand is being created for and choose what date they want to execute that plan. 
 
