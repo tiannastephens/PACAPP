@@ -58,6 +58,6 @@ BOB BIRTHDAY |	Bob’s birthday party will be held at saltgrass restaurant at 4p
 WEIGHT LOSS |	I want to lose 5Ibs by next week	| JAN 23, 2021	| JAN 30, 2021 |	IN PROGRESS
 WORKOUT |	15 min stretch, 30 Pushups, 50 Squats, 25 Pullups	| JAN 23, 2021 |	FEB 12, 2021 |	IN PROGRESS
 
-There is not a limit on the number of plans per user. 
+_There is not a limit on the number of plans per user._ 
 
 
