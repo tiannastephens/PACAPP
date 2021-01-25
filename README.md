@@ -40,8 +40,8 @@ _Info Stored_
 
 The PAC App will store the user’s plans as shown in the examples below:
 
-**PLAN TYPE	| DESCRIPTION	| DURATION | START | DATE	| END | DATE | STATUS*
-------------|-------------|----------|-------|------|-----|------|-------|
+**| PLAN TYPE	| DESCRIPTION	| DURATION | START DATE	| END DATE | STATUS |**
+  |-----------|-------------|----------|------------|----------|--------|
  TASK |	DOG APPT |	1 DAY |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
  EVENT | BOB BIRTHDAY |	1 DAY	| FEB 2, 2021	| FEB 2, 2021 |	PENDING
  GOAL |	WEIGHT LOSS |	1 WEEK |	JAN 23, 2021 |	JAN 30, 2021 | IN PROGRESS
@@ -51,14 +51,12 @@ The PAC App will store the user’s plans as shown in the examples below:
 _Once a user clicks on the plan, they want to view the can see a more detailed view of that plan as shown below:_ 
 
 
-**PLAN | TYPE |	DESCRIPTION |	START DATE|	END DATE |	STATUS**
-1. DOG APPT	My dog “spot” has a doctor appt with Dr. Barnes at 12pm |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
-BOB BIRTHDAY	Bob’s birthday party will be held at saltgrass restaurant at 4pm	FEB 2, 2021	FEB 2, 2021	PENDING
-WEIGHT LOSS	I want to lose 5Ibs by next week	JAN 23, 2021	JAN 30, 2021	IN PROGRESS
-WORKOUT	15 min stretch.
-30 Pushups
-50 Squats
-25 Pullups	JAN 23, 2021 	FEB 12, 2021	IN PROGRESS
+**|	DESCRIPTION |	START DATE |	END DATE |	STATUS |**
+  |-------------|------------|----------|--------|
+DOG APPT |	My dog “spot” has a doctor appt with Dr. Barnes at 12pm |	JAN 25, 2021 |	JAN 25, 2021 |	PENDING
+BOB BIRTHDAY |	Bob’s birthday party will be held at saltgrass restaurant at 4pm |	FEB 2, 2021	| FEB 2, 2021 |	PENDING
+WEIGHT LOSS |	I want to lose 5Ibs by next week	| JAN 23, 2021	| JAN 30, 2021 |	IN PROGRESS
+WORKOUT |	15 min stretch, 30 Pushups, 50 Squats, 25 Pullups	| JAN 23, 2021 |	FEB 12, 2021 |	IN PROGRESS
 
 There is not a limit on the number of plans per user. 
 
